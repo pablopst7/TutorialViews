@@ -7,6 +7,11 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		C01F318F163CDB4E00CCEDAB /* Contatos.m in Sources */ = {isa = PBXBuildFile; fileRef = C01F318E163CDB4E00CCEDAB /* Contatos.m */; };
+		C01FEA47163DFFCB00D4AFCF /* Scroll1ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = C01FEA46163DFFCB00D4AFCF /* Scroll1ViewController.m */; };
+		C01FEA4A163E24A800D4AFCF /* 600.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = C01FEA49163E24A800D4AFCF /* 600.jpeg */; };
+		C01FEA4D163E263B00D4AFCF /* Scroll2ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = C01FEA4C163E263B00D4AFCF /* Scroll2ViewController.m */; };
+		C01FEA58163E362000D4AFCF /* Scroll3ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = C01FEA57163E362000D4AFCF /* Scroll3ViewController.m */; };
 		C03BE263163A3A9200F10D7E /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C03BE262163A3A9200F10D7E /* UIKit.framework */; };
 		C03BE265163A3A9200F10D7E /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C03BE264163A3A9200F10D7E /* Foundation.framework */; };
 		C03BE267163A3A9200F10D7E /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C03BE266163A3A9200F10D7E /* CoreGraphics.framework */; };
@@ -18,9 +23,26 @@
 		C03BE279163A3A9200F10D7E /* Default@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = C03BE278163A3A9200F10D7E /* Default@2x.png */; };
 		C03BE27B163A3A9200F10D7E /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = C03BE27A163A3A9200F10D7E /* Default-568h@2x.png */; };
 		C03BE27E163A3A9200F10D7E /* TutorialViews.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = C03BE27C163A3A9200F10D7E /* TutorialViews.xcdatamodeld */; };
+		C03BE285163A3B2300F10D7E /* Storyboard_iPhone.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C03BE284163A3B2300F10D7E /* Storyboard_iPhone.storyboard */; };
+		C03BE288163A3FB200F10D7E /* PrimeiraViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = C03BE287163A3FB200F10D7E /* PrimeiraViewController.m */; };
+		C0643EBC1640C72B002E1012 /* SliderViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = C0643EBB1640C72B002E1012 /* SliderViewController.m */; };
+		C0643EC01640CFB8002E1012 /* SwitchViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = C0643EBF1640CFB8002E1012 /* SwitchViewController.m */; };
+		C0643EC41640D690002E1012 /* foto1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = C0643EC11640D690002E1012 /* foto1.jpg */; };
+		C0643EC51640D690002E1012 /* foto2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = C0643EC21640D690002E1012 /* foto2.jpg */; };
+		C0643EC61640D690002E1012 /* foto3.jpg in Resources */ = {isa = PBXBuildFile; fileRef = C0643EC31640D690002E1012 /* foto3.jpg */; };
+		C0643EC91640D6EE002E1012 /* SegmentedViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = C0643EC81640D6EE002E1012 /* SegmentedViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		C01F318D163CDB4E00CCEDAB /* Contatos.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Contatos.h; sourceTree = "<group>"; };
+		C01F318E163CDB4E00CCEDAB /* Contatos.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Contatos.m; sourceTree = "<group>"; };
+		C01FEA45163DFFCB00D4AFCF /* Scroll1ViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Scroll1ViewController.h; sourceTree = "<group>"; };
+		C01FEA46163DFFCB00D4AFCF /* Scroll1ViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Scroll1ViewController.m; sourceTree = "<group>"; };
+		C01FEA49163E24A800D4AFCF /* 600.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 600.jpeg; sourceTree = "<group>"; };
+		C01FEA4B163E263B00D4AFCF /* Scroll2ViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Scroll2ViewController.h; sourceTree = "<group>"; };
+		C01FEA4C163E263B00D4AFCF /* Scroll2ViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Scroll2ViewController.m; sourceTree = "<group>"; };
+		C01FEA56163E362000D4AFCF /* Scroll3ViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Scroll3ViewController.h; sourceTree = "<group>"; };
+		C01FEA57163E362000D4AFCF /* Scroll3ViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Scroll3ViewController.m; sourceTree = "<group>"; };
 		C03BE25E163A3A9200F10D7E /* TutorialViews.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TutorialViews.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		C03BE262163A3A9200F10D7E /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		C03BE264163A3A9200F10D7E /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
@@ -36,6 +58,18 @@
 		C03BE278163A3A9200F10D7E /* Default@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default@2x.png"; sourceTree = "<group>"; };
 		C03BE27A163A3A9200F10D7E /* Default-568h@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default-568h@2x.png"; sourceTree = "<group>"; };
 		C03BE27D163A3A9200F10D7E /* TutorialViews.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = TutorialViews.xcdatamodel; sourceTree = "<group>"; };
+		C03BE284163A3B2300F10D7E /* Storyboard_iPhone.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = Storyboard_iPhone.storyboard; sourceTree = "<group>"; };
+		C03BE286163A3FB200F10D7E /* PrimeiraViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PrimeiraViewController.h; sourceTree = "<group>"; };
+		C03BE287163A3FB200F10D7E /* PrimeiraViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PrimeiraViewController.m; sourceTree = "<group>"; };
+		C0643EBA1640C72B002E1012 /* SliderViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SliderViewController.h; sourceTree = "<group>"; };
+		C0643EBB1640C72B002E1012 /* SliderViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SliderViewController.m; sourceTree = "<group>"; };
+		C0643EBE1640CFB8002E1012 /* SwitchViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SwitchViewController.h; sourceTree = "<group>"; };
+		C0643EBF1640CFB8002E1012 /* SwitchViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SwitchViewController.m; sourceTree = "<group>"; };
+		C0643EC11640D690002E1012 /* foto1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = foto1.jpg; sourceTree = "<group>"; };
+		C0643EC21640D690002E1012 /* foto2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = foto2.jpg; sourceTree = "<group>"; };
+		C0643EC31640D690002E1012 /* foto3.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = foto3.jpg; sourceTree = "<group>"; };
+		C0643EC71640D6EE002E1012 /* SegmentedViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SegmentedViewController.h; sourceTree = "<group>"; };
+		C0643EC81640D6EE002E1012 /* SegmentedViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SegmentedViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -84,10 +118,27 @@
 		C03BE26A163A3A9200F10D7E /* TutorialViews */ = {
 			isa = PBXGroup;
 			children = (
+				C01F318D163CDB4E00CCEDAB /* Contatos.h */,
+				C01F318E163CDB4E00CCEDAB /* Contatos.m */,
 				C03BE273163A3A9200F10D7E /* AppDelegate.h */,
 				C03BE274163A3A9200F10D7E /* AppDelegate.m */,
 				C03BE27C163A3A9200F10D7E /* TutorialViews.xcdatamodeld */,
+				C03BE284163A3B2300F10D7E /* Storyboard_iPhone.storyboard */,
 				C03BE26B163A3A9200F10D7E /* Supporting Files */,
+				C03BE286163A3FB200F10D7E /* PrimeiraViewController.h */,
+				C03BE287163A3FB200F10D7E /* PrimeiraViewController.m */,
+				C01FEA45163DFFCB00D4AFCF /* Scroll1ViewController.h */,
+				C01FEA46163DFFCB00D4AFCF /* Scroll1ViewController.m */,
+				C01FEA4B163E263B00D4AFCF /* Scroll2ViewController.h */,
+				C01FEA4C163E263B00D4AFCF /* Scroll2ViewController.m */,
+				C01FEA56163E362000D4AFCF /* Scroll3ViewController.h */,
+				C01FEA57163E362000D4AFCF /* Scroll3ViewController.m */,
+				C0643EBA1640C72B002E1012 /* SliderViewController.h */,
+				C0643EBB1640C72B002E1012 /* SliderViewController.m */,
+				C0643EBE1640CFB8002E1012 /* SwitchViewController.h */,
+				C0643EBF1640CFB8002E1012 /* SwitchViewController.m */,
+				C0643EC71640D6EE002E1012 /* SegmentedViewController.h */,
+				C0643EC81640D6EE002E1012 /* SegmentedViewController.m */,
 			);
 			path = TutorialViews;
 			sourceTree = "<group>";
@@ -95,6 +146,10 @@
 		C03BE26B163A3A9200F10D7E /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				C0643EC11640D690002E1012 /* foto1.jpg */,
+				C0643EC21640D690002E1012 /* foto2.jpg */,
+				C0643EC31640D690002E1012 /* foto3.jpg */,
+				C01FEA49163E24A800D4AFCF /* 600.jpeg */,
 				C03BE26C163A3A9200F10D7E /* TutorialViews-Info.plist */,
 				C03BE26D163A3A9200F10D7E /* InfoPlist.strings */,
 				C03BE270163A3A9200F10D7E /* main.m */,
@@ -161,6 +216,11 @@
 				C03BE277163A3A9200F10D7E /* Default.png in Resources */,
 				C03BE279163A3A9200F10D7E /* Default@2x.png in Resources */,
 				C03BE27B163A3A9200F10D7E /* Default-568h@2x.png in Resources */,
+				C03BE285163A3B2300F10D7E /* Storyboard_iPhone.storyboard in Resources */,
+				C01FEA4A163E24A800D4AFCF /* 600.jpeg in Resources */,
+				C0643EC41640D690002E1012 /* foto1.jpg in Resources */,
+				C0643EC51640D690002E1012 /* foto2.jpg in Resources */,
+				C0643EC61640D690002E1012 /* foto3.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -174,6 +234,14 @@
 				C03BE271163A3A9200F10D7E /* main.m in Sources */,
 				C03BE275163A3A9200F10D7E /* AppDelegate.m in Sources */,
 				C03BE27E163A3A9200F10D7E /* TutorialViews.xcdatamodeld in Sources */,
+				C03BE288163A3FB200F10D7E /* PrimeiraViewController.m in Sources */,
+				C01F318F163CDB4E00CCEDAB /* Contatos.m in Sources */,
+				C01FEA47163DFFCB00D4AFCF /* Scroll1ViewController.m in Sources */,
+				C01FEA4D163E263B00D4AFCF /* Scroll2ViewController.m in Sources */,
+				C01FEA58163E362000D4AFCF /* Scroll3ViewController.m in Sources */,
+				C0643EBC1640C72B002E1012 /* SliderViewController.m in Sources */,
+				C0643EC01640CFB8002E1012 /* SwitchViewController.m in Sources */,
+				C0643EC91640D6EE002E1012 /* SegmentedViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -282,6 +350,7 @@
 				C03BE283163A3A9200F10D7E /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 
